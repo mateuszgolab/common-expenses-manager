@@ -1,7 +1,5 @@
 #labels Phase-Requirements
-The following is:
-  * A list
-  * Of bulleted items
+  * Functional Requirements
     # This is a numbered sublist
     # Which is done by indenting further
   * And back to the main bulleted list
