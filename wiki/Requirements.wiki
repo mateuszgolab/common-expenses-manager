@@ -1,5 +1,5 @@
 #labels Phase-Requirements
-  * Functional Requirements
+Functional Requirements
     # This is a numbered sublist
     # Which is done by indenting further
   * And back to the main bulleted list
