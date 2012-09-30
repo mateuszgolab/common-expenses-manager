@@ -1,8 +1,8 @@
 #labels Phase-Requirements
-#Functional requirements
+Functional requirements
 
-1. Application provides Google User authentication
-2. The user can add payment he has done 
+#Application provides Google User authentication
+#The user can add payment he has done 
 3. The user is adding category of the payment he added
 3. The user can add payment somebody else has done
 5. All the users involved in the payment get notifications
