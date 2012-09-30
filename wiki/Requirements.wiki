@@ -1,5 +1,5 @@
 #labels Phase-Requirements
-Functional Requirements
+*Functional Requirements*
     # Application provides Google User authentication
     # The user can add payment he has done 
     # The user is adding category of the payment he added
@@ -14,4 +14,4 @@ Functional Requirements
     # The user can add category which shows who was involved in the payment
     # The category contains coefficients for every user involved and all coefficients should sum to 1.0
 
-Nonfunctional requirements
+*Nonfunctional requirements*
