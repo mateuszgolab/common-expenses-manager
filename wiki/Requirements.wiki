@@ -2,18 +2,16 @@
 Functional Requirements
     # Application provides Google User authentication
     # The user can add payment he has done 
-3. The user is adding category of the payment he added
-3. The user can add payment somebody else has done
-5. All the users involved in the payment get notifications
-6. All the operations are stored in the history
-7. The user can claim reimbursement
-8. The user can add reimbursement
-9. The other users involved in reimbursement confirms money transfer
-10. The app shows the current balance for every user
-11. The app shows every active payment including category and cash
-12. The user can add category which shows who was involved in the payment
-13. The category contains coefficients for every user involved and all coefficients should sum to 1.0
-14. 
+    # The user is adding category of the payment he added
+    # The user can add payment somebody else has done
+    # All the users involved in the payment get notifications
+    # All the operations are stored in the history
+    # The user can claim reimbursement
+    # The user can add reimbursement
+    # The other users involved in reimbursement confirms money transfer
+    # The app shows the current balance for every user
+    # The app shows every active payment including category and cash
+    # The user can add category which shows who was involved in the payment
+    # The category contains coefficients for every user involved and all coefficients should sum to 1.0
 
-
-#Nonfunctional requirements
+Nonfunctional requirements
