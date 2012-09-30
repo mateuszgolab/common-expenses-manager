@@ -1,19 +1,7 @@
 #labels Phase-Requirements
 Functional Requirements
-    # This is a numbered sublist
-    # Which is done by indenting further
-  * And back to the main bulleted list
-
- * This is also a list
- * With a single leading space
- * Notice that it is rendered
-  # At the same levels
-  # As the above lists.
- * Despite the different indentation levels.
-
-Functional requirements
-Application provides Google User authentication
-#The user can add payment he has done 
+    # Application provides Google User authentication
+    # The user can add payment he has done 
 3. The user is adding category of the payment he added
 3. The user can add payment somebody else has done
 5. All the users involved in the payment get notifications
