@@ -10,7 +10,7 @@
   
  ==Client==
   * UI
+  * Controller
 
  ==Server==
-  *  
-
+  * Persistent manager
