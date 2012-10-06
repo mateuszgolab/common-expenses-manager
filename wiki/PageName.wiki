@@ -1,3 +1,0 @@
-#labels Phase-Design
-  * AppEngine based GWT Web application using Datastore
-  * 
