@@ -1,0 +1,3 @@
+#labels Phase-QA
+  * Unit Testing
+  * Cross - browser testing
