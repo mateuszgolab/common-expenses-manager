@@ -6,7 +6,7 @@
   * Datastore
 
 =Architecture=
-  * Client - Server
+  * MVP
   
  ==Client==
   * UI
