@@ -1,0 +1,2 @@
+serviceClass: com.cem.client.CommonExpensesManagerService
+path: 03876437A37277CB1B6A1DCB4631E1EB.gwt.rpc
