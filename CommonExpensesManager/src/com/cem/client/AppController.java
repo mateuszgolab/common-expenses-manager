@@ -2,7 +2,7 @@ package com.cem.client;
 
 import com.cem.client.presenter.CommonExpensesManagerPresenter;
 import com.cem.client.presenter.Presenter;
-import com.cem.client.view.CommonExpensesManagerView;
+import com.cem.client.view.MainView;
 import com.google.gwt.event.logical.shared.ValueChangeEvent;
 import com.google.gwt.event.logical.shared.ValueChangeHandler;
 import com.google.gwt.event.shared.HandlerManager;
@@ -30,7 +30,7 @@ public class AppController implements Presenter, ValueChangeHandler<String>
     
     private void bind()
     {
-
+        History.addValueChangeHandler(this);
     }
 
 
@@ -41,7 +41,7 @@ public class AppController implements Presenter, ValueChangeHandler<String>
 
         if ("".equals(History.getToken()))
         {
-            History.newItem("list");
+            History.newItem("main");
         }
         else
         {
@@ -59,9 +59,9 @@ public class AppController implements Presenter, ValueChangeHandler<String>
         {
             Presenter presenter = null;
             
-            if ("table".equals(token))
+            if ("main".equals(token))
             {
-                presenter = new CommonExpensesManagerPresenter(rpcService, eventBus, new CommonExpensesManagerView());
+                presenter = new CommonExpensesManagerPresenter(rpcService, eventBus, new MainView());
             }
             
             if (presenter != null)
