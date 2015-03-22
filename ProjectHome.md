@@ -1,0 +1,1 @@
+The application to manage payments related to common expenses of many people

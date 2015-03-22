@@ -1,0 +1,3 @@
+# Android client #
+  * Android client application using already implemented Server
+  * Camera is scannig a bill and capturing amount from the bill
